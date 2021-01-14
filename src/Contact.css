@@ -1,0 +1,22 @@
+.title-text-font {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+    font-size: 60px;
+}
+
+.padding-top-100 {
+    padding-top: 100px;
+}
+
+.text-font {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+    font-size: 18px;
+}
+
+.message-text-font {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+    font-size: 20px;
+}
+
+.not-rounded {
+    border-radius: 0;
+}

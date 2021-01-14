@@ -1,0 +1,58 @@
+.border-10-white {
+    border-style:solid;
+    border-width: 10px;
+    border-color: white;
+}
+
+.padding-60 {
+    padding-top: 60px;
+}
+
+.padding-20 {
+    padding-top: 20px;
+}
+
+.padding-sides {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.padding-top-blurb {
+    padding-top: 20px;
+}
+
+.container-center-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.name-text-font {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+    font-size: 60px;
+}
+
+.intro-text-font {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 20px; 
+}
+
+.parallax-intro { 
+    /* The image used */
+    background-image: url("./assets/marble_bkgd.jpg");
+
+    /* Set a specific height */
+    height: 830px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intro-text-font-typewriter {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 18px;
+    color:rgb(41, 146, 179); 
+}
