@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.b92cb4c7.chunk.css",
+    "main.js": "/personal-website/static/js/main.3c7573b5.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.3c7573b5.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.18f2daff.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.18f2daff.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/personal-website/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.c846dd61.chunk.js": "/personal-website/static/js/2.c846dd61.chunk.js",
+    "static/js/2.c846dd61.chunk.js.map": "/personal-website/static/js/2.c846dd61.chunk.js.map",
+    "static/js/3.cb29a8ad.chunk.js": "/personal-website/static/js/3.cb29a8ad.chunk.js",
+    "static/js/3.cb29a8ad.chunk.js.map": "/personal-website/static/js/3.cb29a8ad.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/personal-website/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.b92cb4c7.chunk.css.map": "/personal-website/static/css/main.b92cb4c7.chunk.css.map",
+    "static/js/2.c846dd61.chunk.js.LICENSE.txt": "/personal-website/static/js/2.c846dd61.chunk.js.LICENSE.txt",
+    "static/media/Nitya Tarakad Resume.d494f2fc.pdf": "/personal-website/static/media/Nitya Tarakad Resume.d494f2fc.pdf",
+    "static/media/facebook_logo.2390bf0a.png": "/personal-website/static/media/facebook_logo.2390bf0a.png",
+    "static/media/gatech_logo.2a5f7857.png": "/personal-website/static/media/gatech_logo.2a5f7857.png",
+    "static/media/hpe_pic.94966854.png": "/personal-website/static/media/hpe_pic.94966854.png",
+    "static/media/intro_pic.55d4491d.jpeg": "/personal-website/static/media/intro_pic.55d4491d.jpeg",
+    "static/media/kt_pic.01db9e47.png": "/personal-website/static/media/kt_pic.01db9e47.png",
+    "static/media/listify_pic.72981e2b.png": "/personal-website/static/media/listify_pic.72981e2b.png",
+    "static/media/Projects.css": "/personal-website/static/media/marble_bkgd.c7fcd8c9.jpg",
+    "static/media/pge_logo.4aedff22.png": "/personal-website/static/media/pge_logo.4aedff22.png",
+    "static/media/pov_pic.3546a2c8.png": "/personal-website/static/media/pov_pic.3546a2c8.png",
+    "static/media/research_pic.a3e13351.png": "/personal-website/static/media/research_pic.a3e13351.png",
+    "static/media/spectrosam_pic.0e1f99e9.png": "/personal-website/static/media/spectrosam_pic.0e1f99e9.png",
+    "static/media/ta_pic.65dcb9b4.png": "/personal-website/static/media/ta_pic.65dcb9b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18f2daff.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.c846dd61.chunk.js",
+    "static/css/main.b92cb4c7.chunk.css",
+    "static/js/main.3c7573b5.chunk.js"
+  ]
+}
